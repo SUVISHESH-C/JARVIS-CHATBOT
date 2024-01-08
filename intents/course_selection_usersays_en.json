@@ -1,0 +1,360 @@
+[
+  {
+    "id": "5b343c1b-e038-45d2-b999-0fd4db4011f7",
+    "data": [
+      {
+        "text": "i want to enroll",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8d10795f-cf0d-4c68-9af9-94647759f170",
+    "data": [
+      {
+        "text": "I want to enroll for ",
+        "userDefined": false
+      },
+      {
+        "text": "cloud computing",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f984d18d-05ae-48c7-a87c-15f528af4e12",
+    "data": [
+      {
+        "text": "I want to enroll for ",
+        "userDefined": false
+      },
+      {
+        "text": "machine learning",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c5148b60-a23a-4e0b-a782-fce98fb20a2a",
+    "data": [
+      {
+        "text": "I want to enroll for ",
+        "userDefined": false
+      },
+      {
+        "text": "data science",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      },
+      {
+        "text": " course",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "93a54d4b-5715-4238-b612-e99acb186a5e",
+    "data": [
+      {
+        "text": "Manoj",
+        "meta": "@sys.any",
+        "alias": "cust_name",
+        "userDefined": false
+      },
+      {
+        "text": " wants to register to the course named ",
+        "userDefined": false
+      },
+      {
+        "text": "Iot",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3424572b-9a01-4114-9598-8e6f86a3d846",
+    "data": [
+      {
+        "text": "John",
+        "meta": "@sys.any",
+        "alias": "cust_name",
+        "userDefined": false
+      },
+      {
+        "text": " here—I\u0027d like to sign up for the course in ",
+        "userDefined": false
+      },
+      {
+        "text": "data science",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1451f246-8755-4457-bb6f-cc11b543ee95",
+    "data": [
+      {
+        "text": "Hari",
+        "meta": "@sys.any",
+        "alias": "cust_name",
+        "userDefined": false
+      },
+      {
+        "text": " here—I\u0027d like to sign up for the course in ",
+        "userDefined": false
+      },
+      {
+        "text": "data science",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "efdaca33-2a2b-43b6-82c5-311cb0e51383",
+    "data": [
+      {
+        "text": "My name is ",
+        "userDefined": false
+      },
+      {
+        "text": "Shreyas",
+        "meta": "@sys.any",
+        "alias": "cust_name",
+        "userDefined": false
+      },
+      {
+        "text": ", and I\u0027m interested in enrolling for the ",
+        "userDefined": false
+      },
+      {
+        "text": "data science",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      },
+      {
+        "text": " course.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ed3c39d8-8697-4623-bb65-6af826c0e660",
+    "data": [
+      {
+        "text": "Hi, I\u0027m ",
+        "userDefined": false
+      },
+      {
+        "text": "John",
+        "meta": "@sys.any",
+        "alias": "cust_name",
+        "userDefined": false
+      },
+      {
+        "text": ", and I\u0027m looking to enroll in the ",
+        "userDefined": false
+      },
+      {
+        "text": "data science",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      },
+      {
+        "text": " course.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c2112e3c-c440-4cb8-a002-6fbe9903f8fa",
+    "data": [
+      {
+        "text": "dachu",
+        "meta": "@sys.any",
+        "alias": "cust_name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b2a40d36-0ba3-40ba-a8de-6397da2b1f32",
+    "data": [
+      {
+        "text": "suvi",
+        "meta": "@sys.any",
+        "alias": "cust_name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ca557459-62fe-4725-8ebf-c468ad620f5c",
+    "data": [
+      {
+        "text": "john",
+        "meta": "@sys.any",
+        "alias": "cust_name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0f4ec908-4a01-41da-a34d-1bfaa6fc37a9",
+    "data": [
+      {
+        "text": "data science",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1ac70de0-def8-49a7-a4aa-05973a0fe8a8",
+    "data": [
+      {
+        "text": "entrepreneurship",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9bc561c9-5014-447b-a48a-5fe2313b21db",
+    "data": [
+      {
+        "text": "information technology",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "853a6369-79cd-47d2-8fc3-fa1cfa2132ef",
+    "data": [
+      {
+        "text": "cyber security",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "365c6c46-a40e-416b-b12e-27673dc93d35",
+    "data": [
+      {
+        "text": "cloud computing",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4beed2fa-1ff3-44d0-b882-aadfdb82a3fd",
+    "data": [
+      {
+        "text": "machine learning",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]

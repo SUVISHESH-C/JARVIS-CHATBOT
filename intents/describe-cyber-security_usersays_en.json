@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1923d3a5-2f72-4b89-8b50-5a3527d170f0",
+    "data": [
+      {
+        "text": "give me the information about cyber security course",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c028cf7e-35ce-4a6a-a36c-e235f411dc4a",
+    "data": [
+      {
+        "text": "Provide an overview of the cyber security course.\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8f4564ca-68f8-4f6c-a461-653f43a063b8",
+    "data": [
+      {
+        "text": "\"Can you elaborate on the content covered in the cyber security course?\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "31ec8da2-1f80-489f-be93-5acbb4857100",
+    "data": [
+      {
+        "text": "Share ",
+        "userDefined": false
+      },
+      {
+        "text": "information",
+        "userDefined": false
+      },
+      {
+        "text": " about the curriculum of the cyber security course.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e2b7ba90-ec28-4824-909e-b84b63859a7c",
+    "data": [
+      {
+        "text": "Describe what the cybersecurity course involves in terms of topics and skills",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7bcbd106-832a-4534-a222-9e1e51581af2",
+    "data": [
+      {
+        "text": "describe ",
+        "userDefined": false
+      },
+      {
+        "text": "cyber security",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

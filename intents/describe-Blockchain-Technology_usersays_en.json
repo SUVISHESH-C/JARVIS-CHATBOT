@@ -1,0 +1,182 @@
+[
+  {
+    "id": "eb858838-ec17-4061-bdc0-f70c2fd05d1e",
+    "data": [
+      {
+        "text": "give me the ",
+        "userDefined": false
+      },
+      {
+        "text": "information",
+        "userDefined": false
+      },
+      {
+        "text": " about ",
+        "userDefined": false
+      },
+      {
+        "text": "blockchain",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      },
+      {
+        "text": " course",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8069f80b-c389-4b59-a181-76566ad89dc7",
+    "data": [
+      {
+        "text": "give me detailed description of ",
+        "userDefined": false
+      },
+      {
+        "text": "blockchain technology",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ad6d5459-df14-4896-a41d-11b8e42a026e",
+    "data": [
+      {
+        "text": "describe ",
+        "userDefined": false
+      },
+      {
+        "text": "blockchain technology",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      },
+      {
+        "text": " course in detail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a5dd280b-e1b6-424f-8e33-a4f0ad730206",
+    "data": [
+      {
+        "text": "Can you please provide a detailed description of ",
+        "userDefined": false
+      },
+      {
+        "text": "blockchain technology",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "85bc7da1-e679-4463-a808-482e77a35eb4",
+    "data": [
+      {
+        "text": "When we talk about ",
+        "userDefined": false
+      },
+      {
+        "text": "blockchain technology",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      },
+      {
+        "text": ", what are the key aspects and components that you can describe in detail?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e46d4d80-edaa-4b78-8061-b37db34000e2",
+    "data": [
+      {
+        "text": "Could you elaborate on the specifics of ",
+        "userDefined": false
+      },
+      {
+        "text": "blockchain technology",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      },
+      {
+        "text": "  in greater detail?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b6992c00-17c5-4d63-97ee-b72579f91f0b",
+    "data": [
+      {
+        "text": "give me the detailed description of the course named  ",
+        "userDefined": false
+      },
+      {
+        "text": "blockchain technology",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bda34145-3778-481f-b25d-b54a9ade4cd1",
+    "data": [
+      {
+        "text": "describe ",
+        "userDefined": false
+      },
+      {
+        "text": "blockchain technology",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

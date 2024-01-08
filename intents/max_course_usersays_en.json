@@ -1,0 +1,28 @@
+[
+  {
+    "id": "54f3d5f9-fe12-4373-87bd-cc133f410477",
+    "data": [
+      {
+        "text": "which course has the highest number of students?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "16a05f75-2c41-4c13-960c-063d9a1f795a",
+    "data": [
+      {
+        "text": "maximum course",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

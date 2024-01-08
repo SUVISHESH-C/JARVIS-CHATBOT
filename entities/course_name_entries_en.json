@@ -1,0 +1,71 @@
+[
+  {
+    "value": "Data Science",
+    "synonyms": [
+      "Data Science",
+      "ds"
+    ]
+  },
+  {
+    "value": "machine learning",
+    "synonyms": [
+      "machine learning",
+      "ml",
+      "ai",
+      "artificial intelligence"
+    ]
+  },
+  {
+    "value": "information technology",
+    "synonyms": [
+      "information technology",
+      "it"
+    ]
+  },
+  {
+    "value": "Mobile App Development",
+    "synonyms": [
+      "Mobile App Development",
+      "mobile development"
+    ]
+  },
+  {
+    "value": "Blockchain Technology",
+    "synonyms": [
+      "Blockchain Technology"
+    ]
+  },
+  {
+    "value": "UI/UX Design",
+    "synonyms": [
+      "UI/UX Design"
+    ]
+  },
+  {
+    "value": "Internet of Things",
+    "synonyms": [
+      "Internet of Things",
+      "IoT",
+      "Iot"
+    ]
+  },
+  {
+    "value": "Cyber security",
+    "synonyms": [
+      "Cyber security",
+      "cybersecurity"
+    ]
+  },
+  {
+    "value": "Project Management",
+    "synonyms": [
+      "Project Management"
+    ]
+  },
+  {
+    "value": "entrepreneurship",
+    "synonyms": [
+      "entrepreneurship"
+    ]
+  }
+]

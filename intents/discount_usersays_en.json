@@ -1,0 +1,124 @@
+[
+  {
+    "id": "fd59a0e4-9eb0-4830-bebf-77ed9f892131",
+    "data": [
+      {
+        "text": "details of discount for the course named ",
+        "userDefined": false
+      },
+      {
+        "text": "cloud computing",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8605d193-c578-4a55-a0aa-fcdb54083785",
+    "data": [
+      {
+        "text": "discount of ",
+        "userDefined": false
+      },
+      {
+        "text": "mobile app development",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bc678626-2be1-488d-ae96-dde73b32abed",
+    "data": [
+      {
+        "text": "Can i get discount for the course",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ef8fafc5-ceb0-401f-8697-cbf7102689aa",
+    "data": [
+      {
+        "text": "how can i get discount for the course",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a10b12c8-5acf-4300-b074-70dd78c96046",
+    "data": [
+      {
+        "text": "eligibility to avail discount for course",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "caebc280-db78-48f6-891b-f87f529ef80d",
+    "data": [
+      {
+        "text": "what is discount for ",
+        "userDefined": false
+      },
+      {
+        "text": "data science",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "054ced91-0145-4e4f-97c8-46bb01234c08",
+    "data": [
+      {
+        "text": "How the discount is calculated for course",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c8cdb7ec-1179-41d5-a465-ccd3c773647b",
+    "data": [
+      {
+        "text": "what does discount mean?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

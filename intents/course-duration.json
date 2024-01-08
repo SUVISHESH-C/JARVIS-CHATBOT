@@ -1,0 +1,50 @@
+{
+  "id": "5cdebfef-3035-4c5a-a910-fff4fe2863ef",
+  "name": "course-duration",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "56e76bc0-2a5d-42fe-8b01-984266ce0acc",
+          "name": "course_name",
+          "required": false,
+          "dataType": "@course_name",
+          "value": "$course_name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The $course_name course is like embarking on a delightful journey of innovation and discovery! On average, it takes about 6 months to complete, allowing you to savor every moment of learning and growth. We\u0027re here to support you every step of the way on your path to unimaginable success!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

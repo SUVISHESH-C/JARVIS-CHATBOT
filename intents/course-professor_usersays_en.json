@@ -1,0 +1,59 @@
+[
+  {
+    "id": "161091fd-c7e2-437f-ad5e-eda59cdfc6c8",
+    "data": [
+      {
+        "text": "who is the professor of ",
+        "userDefined": false
+      },
+      {
+        "text": "cyber security",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b89b47b6-6905-4c25-bf6e-a3c8ee95af8c",
+    "data": [
+      {
+        "text": "tell me about professor of ",
+        "userDefined": false
+      },
+      {
+        "text": "information technology",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "87e9bec6-dd06-446f-af07-44a86421912b",
+    "data": [
+      {
+        "text": "could you describe about the professor of ",
+        "userDefined": false
+      },
+      {
+        "text": "data science",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

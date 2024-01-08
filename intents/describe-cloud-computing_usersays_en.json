@@ -1,0 +1,116 @@
+[
+  {
+    "id": "d6d40a45-80c9-4682-9f79-6df75b76f7d9",
+    "data": [
+      {
+        "text": "give me the information about cloud computing course",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b72db827-b4b2-4a6b-8119-12c36d0f946e",
+    "data": [
+      {
+        "text": "give me the detailed description of the course named  cloud computing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8873c768-c7cc-44b0-bbe1-82279282128b",
+    "data": [
+      {
+        "text": "describe about cloud computing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f599ce91-4c68-4cdc-9d53-12ca6dc7cbfe",
+    "data": [
+      {
+        "text": "Provide an overview of the ",
+        "userDefined": false
+      },
+      {
+        "text": "cloud computing",
+        "userDefined": false
+      },
+      {
+        "text": " course",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f0f1df9d-6065-4657-9806-2fe53d293321",
+    "data": [
+      {
+        "text": "Give me insight into the ",
+        "userDefined": false
+      },
+      {
+        "text": "cloud computing",
+        "userDefined": false
+      },
+      {
+        "text": " course, including ",
+        "userDefined": false
+      },
+      {
+        "text": "its",
+        "userDefined": false
+      },
+      {
+        "text": " key components and ",
+        "userDefined": false
+      },
+      {
+        "text": "learning",
+        "userDefined": false
+      },
+      {
+        "text": " outcomes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "377f52f0-c22a-48f5-b034-b63a8bcd5c59",
+    "data": [
+      {
+        "text": "describe ",
+        "userDefined": false
+      },
+      {
+        "text": "cloud computing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

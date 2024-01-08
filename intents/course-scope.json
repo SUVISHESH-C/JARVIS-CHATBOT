@@ -1,0 +1,60 @@
+{
+  "id": "3cfc7a61-db8a-4869-ac2d-ff5068d04428",
+  "name": "course-scope",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "33db5e17-0995-45d5-9c42-212fb22861e0",
+          "name": "course_name",
+          "required": false,
+          "dataType": "@course_name",
+          "value": "$course_name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "$course_name course provides you with excellent and abundance of knowledge  with the run of $course_name field.It\u0027s currently unstopplable with it\u0027s potential to dominate every field with it\u0027s recent advancements and well suited for research and career growth purpose.One can enjoy his/her journey in the field $course_name with longetivity."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "It may the time to register and enjoy your journey in the field of $course_name ,if the slots out of 60  are available"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

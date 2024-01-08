@@ -1,0 +1,59 @@
+{
+  "id": "33278132-7fd5-478e-9ecb-b17d4d249425",
+  "name": "describe-cyber-security",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Welcome to the enchanting realm of Cybersecurity, where digital guardians stand watch over the realms of data with a touch of sweetness. Imagine a world where these cyber sentinels, armed with the power of encryption and vigilant algorithms, protect our digital dreams from unseen threats. Like digital knights, they ensure the safe passage of information through the virtual landscapes. Cybersecurity is not just about codes and firewalls; i"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You can check about the professors and scope of the field .."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "slack",
+          "title": "intro",
+          "replies": [
+            "what da"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "slack": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

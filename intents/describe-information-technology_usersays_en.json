@@ -1,0 +1,179 @@
+[
+  {
+    "id": "eccd8daa-c758-44d1-96b4-752ad1c1accd",
+    "data": [
+      {
+        "text": "give me the information about information technology course",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c02b21fe-414d-4dd6-8ed3-b47eec6cf5cf",
+    "data": [
+      {
+        "text": "give me the detailed description of the course named  information technology",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5a366c52-488b-4b13-b629-c34d93ac7828",
+    "data": [
+      {
+        "text": "describe about information technology",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "91e513be-3a18-44a1-9734-5d7e5734673e",
+    "data": [
+      {
+        "text": "\"Provide an overview of the ",
+        "userDefined": false
+      },
+      {
+        "text": "information technology",
+        "userDefined": false
+      },
+      {
+        "text": " course.\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "393940f9-96bf-4f66-82c4-7b4bf3f39c2d",
+    "data": [
+      {
+        "text": "\"Share details about the content covered in the ",
+        "userDefined": false
+      },
+      {
+        "text": "information technology",
+        "userDefined": false
+      },
+      {
+        "text": " course.\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0d9ed90f-3b97-4fca-a98d-685a310a00b1",
+    "data": [
+      {
+        "text": "\"Can you elaborate on the curriculum of the ",
+        "userDefined": false
+      },
+      {
+        "text": "information technology",
+        "userDefined": false
+      },
+      {
+        "text": " course?\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9e49c0a3-1ff7-4f4c-9757-9f80dc4a49a0",
+    "data": [
+      {
+        "text": "\"Describe what the ",
+        "userDefined": false
+      },
+      {
+        "text": "information technology",
+        "userDefined": false
+      },
+      {
+        "text": " course entails in terms of topics and skills.\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "45afb900-73b8-42f8-bdc8-326bf531d973",
+    "data": [
+      {
+        "text": "\"Give me insight into the ",
+        "userDefined": false
+      },
+      {
+        "text": "information technology",
+        "userDefined": false
+      },
+      {
+        "text": " course, including ",
+        "userDefined": false
+      },
+      {
+        "text": "its",
+        "userDefined": false
+      },
+      {
+        "text": " key components and ",
+        "userDefined": false
+      },
+      {
+        "text": "learning",
+        "userDefined": false
+      },
+      {
+        "text": " outcomes.\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "748709b0-2382-4b9b-bac2-983adbf99a01",
+    "data": [
+      {
+        "text": "describe ",
+        "userDefined": false
+      },
+      {
+        "text": "information technology",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

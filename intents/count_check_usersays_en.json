@@ -1,0 +1,162 @@
+[
+  {
+    "id": "c727c566-8fd5-4df0-a1ff-a0d428066b85",
+    "data": [
+      {
+        "text": "number of students enrolled for ",
+        "userDefined": false
+      },
+      {
+        "text": "information technology",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a33291ee-a0c8-428e-b47c-482e98c0e86f",
+    "data": [
+      {
+        "text": "number of students enrolled for ",
+        "userDefined": false
+      },
+      {
+        "text": "cyber security",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "15f7d931-92ab-4f17-8073-6c1a72541247",
+    "data": [
+      {
+        "text": "number of students enrolled for ",
+        "userDefined": false
+      },
+      {
+        "text": "machine learning",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9c1c7d3b-ea02-496d-9494-6ef3f7254366",
+    "data": [
+      {
+        "text": "how many slots of ",
+        "userDefined": false
+      },
+      {
+        "text": "iot",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      },
+      {
+        "text": " has been filled",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "267f39b4-3c14-4597-ad22-93603aa9c1fd",
+    "data": [
+      {
+        "text": "I want yo know the number of students enrolled for ",
+        "userDefined": false
+      },
+      {
+        "text": "data science",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "41784f83-b4a8-4893-a445-3e8bf6c58c70",
+    "data": [
+      {
+        "text": "number of students registered in the course named ",
+        "userDefined": false
+      },
+      {
+        "text": "data science",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "55ac0be8-4a93-4e77-ad4f-a07f26f704a0",
+    "data": [
+      {
+        "text": "number of registerations in ",
+        "userDefined": false
+      },
+      {
+        "text": "data science",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      },
+      {
+        "text": " course",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4f608a0f-4572-4b5b-8c32-52549e929153",
+    "data": [
+      {
+        "text": "count of ",
+        "userDefined": false
+      },
+      {
+        "text": "data science",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

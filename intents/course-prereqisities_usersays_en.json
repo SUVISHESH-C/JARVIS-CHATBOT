@@ -1,0 +1,28 @@
+[
+  {
+    "id": "051e307e-d322-4a35-81a8-52e51e6db635",
+    "data": [
+      {
+        "text": "prerequisities of the course",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ba840bd0-bb4b-40e8-941a-6b3de8c5ca15",
+    "data": [
+      {
+        "text": "what is the prerequisities of the course",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

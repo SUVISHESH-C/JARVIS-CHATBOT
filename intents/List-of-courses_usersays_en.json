@@ -1,0 +1,67 @@
+[
+  {
+    "id": "f97b0578-af94-45d1-90d1-7132f0730afa",
+    "data": [
+      {
+        "text": "which courses do you offer for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e9e3c372-aa85-48e2-b035-9395a18150db",
+    "data": [
+      {
+        "text": "what are the courses do you offer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "443b5bd2-c687-41b0-a6c9-86948e279915",
+    "data": [
+      {
+        "text": "give me the list of courses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f21d9890-c9f5-4388-a2c0-bc82b9742d98",
+    "data": [
+      {
+        "text": "what are the courses which are offered by you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8a07593e-7f4d-486e-90e8-1e596b9ee735",
+    "data": [
+      {
+        "text": "list of courses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

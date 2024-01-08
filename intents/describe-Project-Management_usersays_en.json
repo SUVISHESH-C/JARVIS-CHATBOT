@@ -1,0 +1,151 @@
+[
+  {
+    "id": "4d72eb60-f206-4be5-9ebd-ff37a2e94a94",
+    "data": [
+      {
+        "text": "give me the information about  ",
+        "userDefined": false
+      },
+      {
+        "text": "project management",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      },
+      {
+        "text": " course",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ffcefead-c034-4f06-8e34-16c210a29873",
+    "data": [
+      {
+        "text": "could you describe ",
+        "userDefined": false
+      },
+      {
+        "text": "project management",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3d9ed416-53dc-4501-8520-ff4cb71c8e9d",
+    "data": [
+      {
+        "text": "Can you please provide a detailed description of ",
+        "userDefined": false
+      },
+      {
+        "text": "Project Management",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ece855bb-c5a5-43d9-835e-1984bd15a691",
+    "data": [
+      {
+        "text": "Could you elaborate on the specifics of ",
+        "userDefined": false
+      },
+      {
+        "text": "Project Management",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      },
+      {
+        "text": " in greater detail?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9fd1d8ae-76b8-4e23-9865-aa23a6e6bb41",
+    "data": [
+      {
+        "text": "When we talk about ",
+        "userDefined": false
+      },
+      {
+        "text": "Project Management",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      },
+      {
+        "text": ", what are the key aspects and components that you can describe in detail?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e8109ba-8803-4d46-a740-c8f612694c79",
+    "data": [
+      {
+        "text": "give me the detailed description of the course named  ",
+        "userDefined": false
+      },
+      {
+        "text": "Project Management",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cd9c99ef-8d9f-4287-a8c2-74e4af5079e3",
+    "data": [
+      {
+        "text": "describe ",
+        "userDefined": false
+      },
+      {
+        "text": "Project Management",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

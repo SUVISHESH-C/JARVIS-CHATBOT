@@ -1,0 +1,35 @@
+{
+  "id": "a202017e-31e2-4db2-86c1-4dccf3203476",
+  "name": "List-of-courses",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "1.Machine learning  2.Data science 3.Information Technology 4.Blockchain Technology 5.Cloud Computing 6.Entrepreneurship 7.Project Manangement 8.Mobile App Devolopment 9.IOT(internet of things) 10.Cybersecurity"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

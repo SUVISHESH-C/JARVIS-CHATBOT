@@ -1,0 +1,60 @@
+{
+  "id": "046ed336-02aa-4bd3-a824-6f01be6af20c",
+  "name": "describe-Mobile-App-Development",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b72a63fd-55db-4925-a0cc-1a7b50879fb9",
+          "name": "course_name",
+          "required": false,
+          "dataType": "@course_name",
+          "value": "$course_name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Absolutely! Mobile App Development is a fascinating field where creativity and technology converge. It involves the process of creating software applications specifically designed to run on mobile devices. From concept to coding and design to deployment, every step is a journey of turning ideas into interactive and user-friendly experiences. It encompasses various platforms, languages, and frameworks, providing endless possibilities for innovation."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You can check about the professors and scope of the field .."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

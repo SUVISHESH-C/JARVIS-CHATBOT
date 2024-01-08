@@ -1,0 +1,35 @@
+{
+  "id": "9d45e2ae-68ba-4c38-8f11-e0065ded729b",
+  "name": "yes-intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I can Describe courses, fetch you with number of students in your \u0027\n                              \u0027desired field,course with highest students,discount offer for the\u0027\n                              \u0027 specific students,details about fee structure,professors \u0027\n                              \u0027teaching the course,\tprerequisities of every course,\u0027\n                              \u0027duration of course and \u0027\n                              \u0027finally why choose jarvis to shape your career"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

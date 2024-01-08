@@ -1,0 +1,176 @@
+[
+  {
+    "id": "329e06d6-7eab-4729-b5af-ae6e77126703",
+    "data": [
+      {
+        "text": "give me the ",
+        "userDefined": false
+      },
+      {
+        "text": "information",
+        "userDefined": false
+      },
+      {
+        "text": " about ",
+        "userDefined": false
+      },
+      {
+        "text": "machine learning",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      },
+      {
+        "text": " course",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a2d62eb3-07f2-46d0-8e6e-2d4c0bb6353a",
+    "data": [
+      {
+        "text": "can you give me the detailed description about machine learning",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c6303984-44ba-4238-9074-305ee8acab7f",
+    "data": [
+      {
+        "text": "describe ",
+        "userDefined": false
+      },
+      {
+        "text": "Machine learning",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      },
+      {
+        "text": " in detail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "737d13e2-7889-4096-953a-bda1cffca585",
+    "data": [
+      {
+        "text": "Can you please provide a detailed description of ",
+        "userDefined": false
+      },
+      {
+        "text": "Machine learning",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8d9ad240-5c1e-4b4a-b2fc-e84063aadcb9",
+    "data": [
+      {
+        "text": "Could you elaborate on the specifics of ",
+        "userDefined": false
+      },
+      {
+        "text": "Machine learning",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      },
+      {
+        "text": " in greater detail?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "68a729a8-18c8-42fa-aa5c-3cce8812eac0",
+    "data": [
+      {
+        "text": "When we talk about ",
+        "userDefined": false
+      },
+      {
+        "text": "machine learning",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      },
+      {
+        "text": ", what are the key aspects and components that you can describe in detail?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "82d49210-35b0-4fc4-856f-5596c5f0aebd",
+    "data": [
+      {
+        "text": "give me the detailed description of the course named  ",
+        "userDefined": false
+      },
+      {
+        "text": "Machine laerning",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "35147c3e-3b38-46b6-8b53-0a8163c39d45",
+    "data": [
+      {
+        "text": "describe ",
+        "userDefined": false
+      },
+      {
+        "text": "machine learning",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

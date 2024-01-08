@@ -1,0 +1,61 @@
+{
+  "id": "b87feefe-caa0-4388-9c4b-d7e31c0a9e7b",
+  "name": "course-professor",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d3653289-1dd4-4e87-a871-570e9df743bf",
+          "name": "course_name",
+          "required": false,
+          "dataType": "@course_name",
+          "value": "$course_name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "In the realm of $course_name , professors are seasoned guides, drawing from a wealth of experience to illuminate the path for aspiring data enthusiasts.The proffesor named Verma is well known for research and achievements in  the field of $course_name.He has P.hd and has worked closely with renowed scientists of the field.He has experience of 7  years",
+            "In the realm of $course_name , professors are seasoned guides, drawing from a wealth of experience to illuminate the path for aspiring data enthusiasts.The proffesor named Rahul is well known for research and achievements in  the field of $course_name.He has P.hd and has worked closely with renowed scientists of the field.He has experience of 13  years"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "It may the time to register and enjoy your journey in the field of $course_name ,if the slots out of 60  are available"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

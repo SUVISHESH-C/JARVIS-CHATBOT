@@ -1,0 +1,178 @@
+[
+  {
+    "id": "84afb77a-cb16-4ca7-97aa-b34cecf917f1",
+    "data": [
+      {
+        "text": "give me the ",
+        "userDefined": false
+      },
+      {
+        "text": "information",
+        "userDefined": false
+      },
+      {
+        "text": " about ",
+        "userDefined": false
+      },
+      {
+        "text": "iot",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      },
+      {
+        "text": " course",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "324a21d5-ce93-4ca3-8e84-5119f188a854",
+    "data": [
+      {
+        "text": "describe about ",
+        "userDefined": false
+      },
+      {
+        "text": "Iot",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1a6f79cb-5f20-4e1f-8817-71644e17b87f",
+    "data": [
+      {
+        "text": "describe ",
+        "userDefined": false
+      },
+      {
+        "text": "internet of things",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2b7f9129-dac3-463d-8e5f-ee4cca57bf52",
+    "data": [
+      {
+        "text": "Can you please provide a detailed description ",
+        "userDefined": false
+      },
+      {
+        "text": "of internet of things",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fb57ff18-37e2-4de5-8c6d-4330c52f80b7",
+    "data": [
+      {
+        "text": "Could you elaborate on the specifics ",
+        "userDefined": false
+      },
+      {
+        "text": "of Internet of things",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      },
+      {
+        "text": " in greater detail?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "13e700d1-fb5b-444e-b37f-b983296167d3",
+    "data": [
+      {
+        "text": "When we talk about ",
+        "userDefined": false
+      },
+      {
+        "text": "Iot",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      },
+      {
+        "text": ", what are the key aspects and components that you can describe in detail?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f7311e4d-97a4-4513-b1dd-2a57ab7b1133",
+    "data": [
+      {
+        "text": "give me the detailed description of the course named  ",
+        "userDefined": false
+      },
+      {
+        "text": "Iot",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3b5ef6b6-87cb-426e-972c-19aeb9844885",
+    "data": [
+      {
+        "text": "describe ",
+        "userDefined": false
+      },
+      {
+        "text": "Iot",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,105 @@
+[
+  {
+    "id": "597ad70f-f147-491f-815a-25408475fe41",
+    "data": [
+      {
+        "text": "future growth ",
+        "userDefined": false
+      },
+      {
+        "text": "of Iot",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      },
+      {
+        "text": " field",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c2c1ed1-4b94-43f7-8d33-3a954e2a0986",
+    "data": [
+      {
+        "text": "future scope of ",
+        "userDefined": false
+      },
+      {
+        "text": "entrepreneurship",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "64995fff-0c29-4c50-825f-22b6d4d53bb3",
+    "data": [
+      {
+        "text": "what is the future of ",
+        "userDefined": false
+      },
+      {
+        "text": "cloud computing",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c98b13cb-1644-4b08-8617-5f2d71587394",
+    "data": [
+      {
+        "text": "is there any scope for ",
+        "userDefined": false
+      },
+      {
+        "text": "information technology",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      },
+      {
+        "text": " course",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "70faac5e-4372-47ab-b471-2fda8b91e3ba",
+    "data": [
+      {
+        "text": "what is the scope of ",
+        "userDefined": false
+      },
+      {
+        "text": "data science",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

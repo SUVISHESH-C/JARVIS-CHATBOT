@@ -1,0 +1,45 @@
+{
+  "id": "2ae9709a-e7f3-44a8-92ff-f5ecd6c12ecb",
+  "name": "describe-entrepreneurship",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "\"Step into the dynamic world of innovation and creation with our Entrepreneurship course! This transformative learning experience is designed to ignite your passion for business and equip you with the skills to bring your ideas to life. Immerse yourself in a journey of discovery, where each lesson is a stepping stone towards understanding the art of entrepreneurship. From cultivating a creative mindset to mastering the essentials of business strategy, this course is your gateway to unlocking the entrepreneurial spirit within you. Join us on this exciting adventure where education meets inspiration, and let\u0027s pave the way for your entrepreneurial success together...I\u0027m happy to supply you with a wealth of details.....For much more info type \"Information\""
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You can check about the professors and scope of the field .."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

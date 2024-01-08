@@ -1,0 +1,67 @@
+[
+  {
+    "id": "1df0b596-f401-455f-be85-68f711f76add",
+    "data": [
+      {
+        "text": "why you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "324b86cb-1424-4fc0-8ee7-72e880d874c2",
+    "data": [
+      {
+        "text": "why trust you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8c38aad4-00e0-4795-9331-477c68647882",
+    "data": [
+      {
+        "text": "what is special about your services",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2a4632d3-735e-4e76-b27a-a36cb7ed874b",
+    "data": [
+      {
+        "text": "how can i trust you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6bde41b0-97bb-43d5-b7e9-a251013aa450",
+    "data": [
+      {
+        "text": "why should i trust your services",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

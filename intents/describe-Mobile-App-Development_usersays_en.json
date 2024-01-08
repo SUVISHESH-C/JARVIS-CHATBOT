@@ -1,0 +1,155 @@
+[
+  {
+    "id": "609550d9-1256-425a-a2cb-f468374e4461",
+    "data": [
+      {
+        "text": "give me the information about ",
+        "userDefined": false
+      },
+      {
+        "text": "mobile development",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      },
+      {
+        "text": " course",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e098037-4809-4d80-97c9-4a7c1508a982",
+    "data": [
+      {
+        "text": "describe ",
+        "userDefined": false
+      },
+      {
+        "text": "mobile development",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e29f32f3-71fd-4470-a1d1-27d3ae301aee",
+    "data": [
+      {
+        "text": "give me the detailed description of the course named  ",
+        "userDefined": false
+      },
+      {
+        "text": "Mobile App Development",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "91ab4a98-6149-45a7-bb81-ba518854ea24",
+    "data": [
+      {
+        "text": "When we talk about ",
+        "userDefined": false
+      },
+      {
+        "text": "Mobile App Development",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      },
+      {
+        "text": ", what are the key aspects and components that you can describe in detail?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1eb2bd51-b31b-4d37-beee-1a05c21cc3a4",
+    "data": [
+      {
+        "text": "Could you elaborate on the specifics of ",
+        "userDefined": false
+      },
+      {
+        "text": "Mobile App Development",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      },
+      {
+        "text": " in greater detail?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b2f3392e-0ebf-4322-bce2-3e4ea835128b",
+    "data": [
+      {
+        "text": "Can you please provide a detailed description of ",
+        "userDefined": false
+      },
+      {
+        "text": "Mobile App Development",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "51b49c6d-385b-4224-9ff0-8e4a9e5b3a93",
+    "data": [
+      {
+        "text": "describe ",
+        "userDefined": false
+      },
+      {
+        "text": "Mobile App Development",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      },
+      {
+        "text": " in detail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

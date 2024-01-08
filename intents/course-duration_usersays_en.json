@@ -1,0 +1,117 @@
+[
+  {
+    "id": "42aaf6f1-18f4-4a3c-9df8-19b9cc0abeb2",
+    "data": [
+      {
+        "text": "how many years does the ",
+        "userDefined": false
+      },
+      {
+        "text": "data science",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      },
+      {
+        "text": " course needs to be completed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "64ee59a2-bf77-4991-8454-15ef5a546fc8",
+    "data": [
+      {
+        "text": "How long does the   ",
+        "userDefined": false
+      },
+      {
+        "text": "entrepreneurship",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      },
+      {
+        "text": " course typically take to complete?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "88a0125f-fae2-46a5-8555-26dd635eec9b",
+    "data": [
+      {
+        "text": "how many months does the ",
+        "userDefined": false
+      },
+      {
+        "text": "data science",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      },
+      {
+        "text": " course needs to be completed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e5046e6f-13d0-4ebe-aac0-dff996bfde4e",
+    "data": [
+      {
+        "text": "duration of ",
+        "userDefined": false
+      },
+      {
+        "text": "cyber security",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      },
+      {
+        "text": " course?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7194bfbc-ca51-4861-892f-93d42d11ce41",
+    "data": [
+      {
+        "text": "what will be the duration of ",
+        "userDefined": false
+      },
+      {
+        "text": "information technology",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      },
+      {
+        "text": " course?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

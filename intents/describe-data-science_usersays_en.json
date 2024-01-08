@@ -1,0 +1,217 @@
+[
+  {
+    "id": "9ac43a1f-a863-46a6-8f70-a06355082937",
+    "data": [
+      {
+        "text": "give me the information about data science course",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6f038eb5-eb99-4cbe-993f-5a83fc8005c0",
+    "data": [
+      {
+        "text": "describe about data science",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8294d008-0d99-4d44-9ac8-b3663fe4c9bf",
+    "data": [
+      {
+        "text": "\"I\u0027m interested in the ",
+        "userDefined": false
+      },
+      {
+        "text": "Data Science",
+        "userDefined": false
+      },
+      {
+        "text": " course. Could you give me a description of the content covered?\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fafba78b-b1a9-4a3c-8be3-1148162d58f3",
+    "data": [
+      {
+        "text": "\"What topics are covered in the curriculum of the ",
+        "userDefined": false
+      },
+      {
+        "text": "Data Science",
+        "userDefined": false
+      },
+      {
+        "text": " course?\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "64e661c0-56d2-4cc0-90ce-7a09d7135f83",
+    "data": [
+      {
+        "text": "\"Could you elaborate on the syllabus and content of the ",
+        "userDefined": false
+      },
+      {
+        "text": "Data Science",
+        "userDefined": false
+      },
+      {
+        "text": " course?\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "593d655c-8298-4d96-9b4a-285a18a22b03",
+    "data": [
+      {
+        "text": "I\u0027d like more ",
+        "userDefined": false
+      },
+      {
+        "text": "information",
+        "userDefined": false
+      },
+      {
+        "text": " about the ",
+        "userDefined": false
+      },
+      {
+        "text": "Data Science",
+        "userDefined": false
+      },
+      {
+        "text": " course. Can you describe the key components and focus areas?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bad1e9c0-356e-4248-a26d-caa7a410426e",
+    "data": [
+      {
+        "text": "describe ",
+        "userDefined": false
+      },
+      {
+        "text": "data science",
+        "userDefined": false
+      },
+      {
+        "text": " course",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c0ddc77a-c4fa-438a-ab5f-6969a1d2fc00",
+    "data": [
+      {
+        "text": "describe ",
+        "userDefined": false
+      },
+      {
+        "text": "data science",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b334e5b3-5627-49cd-a2f6-5611bac6bc18",
+    "data": [
+      {
+        "text": "describe ",
+        "userDefined": false
+      },
+      {
+        "text": "ds",
+        "userDefined": false
+      },
+      {
+        "text": " course",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4ed0cdfa-6621-4a29-bea1-d81aae241b46",
+    "data": [
+      {
+        "text": "Could you elaborate on the syllabus and content of the ",
+        "userDefined": false
+      },
+      {
+        "text": "ds",
+        "userDefined": false
+      },
+      {
+        "text": " course?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7eedbd35-e693-40be-b9db-cb04d67dcdb9",
+    "data": [
+      {
+        "text": "describe ",
+        "userDefined": false
+      },
+      {
+        "text": "ds",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

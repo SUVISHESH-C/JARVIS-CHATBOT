@@ -1,0 +1,146 @@
+[
+  {
+    "id": "0e84f074-9033-41fa-b9eb-ff1eaec33fa7",
+    "data": [
+      {
+        "text": "What are the tuition fees and any additional costs associated with the ",
+        "userDefined": false
+      },
+      {
+        "text": "data science",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      },
+      {
+        "text": " program?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "71076dc2-9cfe-488c-ab35-ba417a334d48",
+    "data": [
+      {
+        "text": "May I get ",
+        "userDefined": false
+      },
+      {
+        "text": "information",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      },
+      {
+        "text": " on the overall cost for enrolling in the ",
+        "userDefined": false
+      },
+      {
+        "text": "data science",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      },
+      {
+        "text": " program",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d92029d3-3f63-4026-9b20-78ab54afc6fd",
+    "data": [
+      {
+        "text": "fee structure of ",
+        "userDefined": false
+      },
+      {
+        "text": "entrepreneurship",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      },
+      {
+        "text": " course",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e9f309b7-3965-4ef9-a5c8-d826d27b4369",
+    "data": [
+      {
+        "text": "fees of ",
+        "userDefined": false
+      },
+      {
+        "text": "information technology",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9bb0885a-04a4-4b72-9d00-eb152569ba12",
+    "data": [
+      {
+        "text": "could you give me the fees details of ",
+        "userDefined": false
+      },
+      {
+        "text": "cyber security",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      },
+      {
+        "text": " course",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d31c55b3-e79e-4c47-a179-9f2c5546a426",
+    "data": [
+      {
+        "text": "what is the fee structure for ",
+        "userDefined": false
+      },
+      {
+        "text": "data science",
+        "meta": "@course_name",
+        "alias": "course_name",
+        "userDefined": false
+      },
+      {
+        "text": " course",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

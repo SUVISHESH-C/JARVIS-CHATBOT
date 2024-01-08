@@ -1,0 +1,60 @@
+{
+  "id": "17e0c8cb-1c42-421b-ad99-b61cd760f714",
+  "name": "describe-Blockchain-Technology",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "059a43d7-d720-4ee1-9064-290042875615",
+          "name": "course_name",
+          "required": false,
+          "dataType": "@course_name",
+          "value": "$course_name",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Blockchain technology is like a magical ledger, creating a secure and transparent way to record and verify transactions. Picture it as a digital chain of unchangeable blocks, each containing a piece of the transaction puzzle. It\u0027s decentralized, meaning no single entity controls it, fostering trust and reducing the risk of fraud. Blockchain isn\u0027t just about cryptocurrency; it\u0027s a revolutionary force with applications in finance, supply chain, and beyond. If you\u0027re curious about any specific facets, feel free to ask – I\u0027m here to make the world of blockchain as sweet and clear as possible!"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You can check about the professors and scope of the field .."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": "4ba1042c-f81e-4320-ad5b-617707e6d9f4",
+  "name": "describe-information-technology",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "\"Step into the exciting world of technology with our Information Technology course! This immersive learning experience is designed to take you on a captivating journey through the vast landscape of IT. Discover the power of innovation as you delve into cutting-edge concepts, hands-on applications, and the ever-evolving realm of digital solutions. Our course is more than just lessons; it\u0027s a bridge to unlocking your potential in the dynamic field of Information Technology. Join us as we embark on a thrilling exploration of knowledge, skills, and the endless possibilities that IT has to offer. Get ready to embrace the future with enthusiasm and expertise!...I would be happy to serve you with much more details if you need it. by giving a command \"information\"\""
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You can check about the professors and scope of the field .."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

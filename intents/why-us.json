@@ -1,0 +1,45 @@
+{
+  "id": "0b634968-4a3a-4133-bd3b-59128f6fe226",
+  "name": "why-us",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Our course selection chatbot offers a uniquely delightful experience tailored just for you! What sets us apart is our commitment to understanding your individual preferences, learning style, and career aspirations. It\u0027s like having a friendly guide who not only suggests courses but also considers your interests and goals, ensuring each recommendation feels personalized. We\u0027ve infused a touch of magic into the chatbot, making the course discovery journey not just informative but also pleasantly enjoyable. With an intuitive interface and a vast database, our chatbot is designed to make your course selection process not just efficient but also a delightful adventure in shaping your educational path."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You can always see the services i provide by typing \u0027hi\u0027 command"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

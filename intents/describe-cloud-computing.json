@@ -1,0 +1,45 @@
+{
+  "id": "ca59fbdd-805c-4080-91a9-a5757f542d89",
+  "name": "describe-cloud-computing",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "\"Welcome to our cloud computing course, where learning meets the limitless possibilities of the digital sky! Immerse yourself in a journey of innovation and efficiency as we explore the dynamic world of cloud technology. This course is not just an educational experience; it\u0027s a gateway to unlocking the power of scalable, on-demand resources. Delve into the magic of seamless collaboration, unparalleled flexibility, and cutting-edge solutions that define the cloud landscape. Join us in mastering the art of cloud computing, where every lesson is a step towards harnessing the future of technology with enthusiasm and expertise....If you ever feel lost, oops don\u0027t worry ,I\u0027 will be always there to help when I get \"information\" command from you\""
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You can check about the professors and scope of the field .."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
